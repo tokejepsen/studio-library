@@ -1,0 +1,14 @@
+studiolibrary/__init__.pyc
+studiolibrary/config.pyc
+studiolibrary/main.pyc
+studiolibrary/migrate.pyc
+studiolibrary/api/__init__.pyc
+studiolibrary/api/cmds.pyc
+studiolibrary/api/library.pyc
+studiolibrary/api/libraryitem.pyc
+studiolibrary/packages/studiolibraryitems/__init__.pyc
+studiolibrary/packages/studiolibraryitems/animitem.pyc
+studiolibrary/packages/studiolibraryitems/mirroritem.pyc
+studiolibrary/packages/studiolibraryitems/poseitem.pyc
+studiolibrary/packages/studiolibraryitems/setsitem.pyc
+studiolibrary/packages/studiolibraryitems/transferitem.pyc
