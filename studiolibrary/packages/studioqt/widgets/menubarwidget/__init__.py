@@ -1,0 +1,1 @@
+from .menubarwidget import MenuBarWidget
